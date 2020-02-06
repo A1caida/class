@@ -1,0 +1,3 @@
+﻿  owo.cpp
+C:\Users\student\source\repos\uwu_uwu\uwu_uwu\owo.cpp(21): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  uwu_uwu.vcxproj -> C:\Users\student\source\repos\uwu_uwu\Debug\uwu_uwu.exe
